@@ -1,6 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my Internet Directory!
 
-You can use the [editor on GitHub](https://github.com/ElyassFr/Internet-Directory/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a place where i'll reference some of the good content that i use/need/like.
+
+Here is a first box with some links associated :
+
+```markdown
+**Maths : **
+
+A website that i use everytime to send bits of LaTeX, may use github gist in the future
+- [Math bin](mathb.in)
+
+```
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
